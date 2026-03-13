@@ -1,6 +1,6 @@
-[submodule "FMI-Codes-AI"]
-	path = FMI-Codes-AI
-	url = https://github.com/ShadowOfDiablo/FMI-Codes-AI.git
+[submodule "FMI-Codes-Mobile"]
+	path = FMI-Codes-Mobile
+	url = https://github.com/ShadowOfDiablo/FMI-Codes-Mobile.git
 [submodule "FMI-Codes-BE"]
 	path = FMI-Codes-BE
 	url = https://github.com/ShadowOfDiablo/FMI-Codes-BE.git
