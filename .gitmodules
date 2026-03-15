@@ -7,3 +7,6 @@
 [submodule "FMI-Codes-Docs-FE"]
 	path = FMI-Codes-Docs-FE
 	url = https://github.com/ShadowOfDiablo/FMI-Codes-Docs-FE.git
+[submodule "FMI-Codes-npm-module"]
+	path = FMI-Codes-npm-module
+	url = https://github.com/ShadowOfDiablo/FMI-Codes-npm-module.git
